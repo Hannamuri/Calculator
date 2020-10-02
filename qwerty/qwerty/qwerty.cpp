@@ -47,7 +47,7 @@ selectCorrectMode:
 		cout << "Enter the second num: ";				//И второе тоже.
 		cin >> b;
 
-		cout << "What we will doing? (+, -, /, *): ";	//И третье..
+		cout << "What we will doing? (+, -, /, *): ";			//И третье..
 		cin >> task;
 
 		if (task == '+') {

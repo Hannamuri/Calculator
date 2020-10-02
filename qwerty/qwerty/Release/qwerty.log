@@ -1,0 +1,8 @@
+﻿  qwerty.cpp
+C:\Users\Ganic\source\repos\qwerty\qwerty\qwerty.cpp(43,18): warning C4102: selectCorrectMode: неиспользованная метка
+  Создание кода
+  1 of 26 functions ( 3.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  qwerty.vcxproj -> C:\Users\Ganic\source\repos\qwerty\Release\qwerty.exe
